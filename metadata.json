@@ -1,0 +1,6 @@
+{
+  "name": "Instagram - Log In",
+  "description": "Log into Instagram to see photos, videos, and everyday moments from your close friends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
